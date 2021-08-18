@@ -30,11 +30,11 @@ Using latitudes and longitudes of these stations and the food scrap drop-off sit
 
 #### Maps
 
-Using the longitudes and latitudes of stations and food scrap drop-off sites, I created two maps. The first is of the 24 potential outreach stations and all of the food scrap drop-off sites across the city. The second is of the four stations that met both selection criteria and the nearest food scrap drop-off sites to each of them.
+Using the longitudes and latitudes of stations and food scrap drop-off sites, I created two maps. The first is of the 24 potential outreach stations and all of the food scrap drop-off sites across the city. The second is of the four stations that met both selection criteria and the nearest food scrap drop-off sites to each of them. I got assistance from [this article](https://medium.com/@ianforrest11/graphing-latitudes-and-longitudes-on-a-map-bf64d5fca391) to write the code to create these maps.
 
 #### Distance Calculations
 
-I used the Haversine distance equation in a function that calculated the distance between each of the 24 potential outreach stations and the food scrap drop-off sites and returned the nearest food scrap drop-off site to each station. Next, I used the Haversine distance equation again to calculate what each distance was between each station and its nearest food scrap drop-off site.
+I used the Haversine distance equation in a function that calculated the distance between each of the 24 potential outreach stations and the food scrap drop-off sites and returned the nearest food scrap drop-off site to each station. Next, I used the Haversine distance equation again to calculate what each distance was between each station and its nearest food scrap drop-off site. I got assistance from [this article](https://medium.com/analytics-vidhya/finding-nearest-pair-of-latitude-and-longitude-match-using-python-ce50d62af546) to write the code to do these calculations.
 
 ## Tools
 
