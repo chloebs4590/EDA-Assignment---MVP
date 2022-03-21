@@ -41,7 +41,3 @@ I used the Haversine distance equation in a function that calculated the distanc
 ### Communication
 
 My complete code and presentation slides are available in this project's repo.
-
-# ![map%20of%20outreach%20stations%20and%20nearest%20food%20scrap%20drop-off%20sites.png](attachment:map%20of%20outreach%20stations%20and%20nearest%20food%20scrap%20drop-off%20sites.png)
-
-# ![outreach%20stations%20and%20distance%20to%20nearest%20food%20scrap%20drop-off%20sites.png](attachment:outreach%20stations%20and%20distance%20to%20nearest%20food%20scrap%20drop-off%20sites.png)
